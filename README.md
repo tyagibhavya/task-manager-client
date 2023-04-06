@@ -1,5 +1,5 @@
 ## TASK MANAGER PROJECT
-Frontend of task manger web app
+Task manger web app with CRUD operations and full backend support. 
 ### Link
 https://task-manager-bhavyatyagi.netlify.app/login
 ### Preview
